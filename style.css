@@ -1,0 +1,34 @@
+body{
+    background-color: #D5E1EF;
+    margin-top: 200px;
+}
+
+.firstbox{
+    background-color: white;
+    width: 320px;
+    margin: auto;
+    padding: 16px;
+    border-radius: 20px;
+}
+.B{
+    max-width: 100%;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    text-align: center;
+    color: #1F314F;
+    
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+}
+p{
+    color: #7D889E;
+    letter-spacing: 0.1875px;
+}
